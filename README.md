@@ -1,3 +1,3 @@
 # TEST
 
-if(x==a)
+if(x!=0)
